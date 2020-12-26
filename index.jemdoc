@@ -1,0 +1,21 @@
+# jemdoc: menu{menu}{index.html}
+= Xuecheng Liu (刘学成)
+
+~~~
+{}{img_left}{figures/portrait.jpg}{alt text}{250}{}
+I'm a 4th year PhD student in the Department of Electronic Engineering of Shanghai Jiao Tong University, 
+co-advised by Distinguished Professor [http://www.cs.sjtu.edu.cn/~wang-xb/ Xinbing Wang] and Associate Professor [http://www.cs.sjtu.edu.cn/~fu-ly/index.html Luoyi Fu]. \n 
+
+I am broadly interested in mathematics of network science, machine learning, as well as their applications to big data science.
+I am particularly interested in matrix computation and analysis. \n 
+
+
+E-mail: [liuxuecheng@sjtu.edu.cn]
+\n 
+Office: 1-441 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China \n 
+[CV/resume.pdf \[Resume\]] [CV/resume.pdf \[Google Scholar\]] \n 
+~~~
+
+== News 
+
+A new research paper: [https://infocom2021.ieee-infocom.org ProHiCo: A Probabilistic Framework to Hide Communities in Large Networks] \n 

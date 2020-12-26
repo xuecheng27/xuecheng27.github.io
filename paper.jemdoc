@@ -1,0 +1,20 @@
+# jemdoc: menu{menu}{paper.html}
+= Papers 
+
+== 2020
+- [https://infocom2021.ieee-infocom.org ProHiCo: A Probabilistic Framework to Hide Communities in Large Networks] [papers/wireless.pdf \[Codes\]] \n 
+*Xuecheng Liu*, Luoyi Fu, Xinbing Wang, and John E. Hopcroft \n 
+accepted to /IEEE INFOCOM, 2021/ \n  
+
+== 2019
+- [papers/source_detection.pdf Poster: Information Source Detection with Limited Time Knowledge] [papers/poster_source-detection.pdf \[Poster\]] \n 
+*Xuecheng Liu*, Luoyi Fu, Bo Jiang, Xiaojun Lin, and Xinbing Wang \n 
+accepted to /ACM MobiHoc, 2019/ \n 
+
+- [https://arxiv.org/abs/1905.12913 Information Source Detection with Limited Time Knowledge] \n 
+*Xuecheng Liu*, Luoyi Fu, Bo Jiang, Xiaojun Lin, and Xinbing Wang \n 
+
+== 2018
+- [papers/wireless.pdf Multicast Scaling of Capacity and Energy Efficiency in Heterogeneous Wireless Sensor Networks] \n 
+*Xuecheng Liu*, Luoyi Fu, Jiliang Wang, Xinbing Wang, and Guihai Chen \n 
+accepted to /ACM Transactions on Sensor Networks, 2019/ \n 
