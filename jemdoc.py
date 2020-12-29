@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: UTF-8 -*-
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
@@ -29,6 +30,7 @@ import time
 import StringIO
 from subprocess import *
 import tempfile
+import chardet
 
 def info():
   print __doc__
@@ -1480,6 +1482,8 @@ def procfile(f):
       else:
         ts = '%Y-%m-%d'
       s = time.strftime(ts, time.localtime(time.time()))
+      s = s.decode(chardet.detect(s)['encoding']).encode('utf-8')
+	  # s = s.decode('gb2312').encode('utf-8')
       hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
       hb(f.outf, f.conf['sourcelink'], f.inname)
@@ -1560,4 +1564,6 @@ def main():
 
 #
 if __name__ == '__main__':
-  main()
+	reload(sys)
+	sys.setdefaultencoding('utf-8')
+	main()
