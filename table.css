@@ -1,0 +1,35 @@
+#static tr.r1 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+#static {
+    background-color: lightsteelblue;
+}
+
+#temporal tr.r1 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+#temporal {
+    background-color: lightsteelblue;
+}
+
+#signed tr.r1 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+#signed {
+    background-color: lightsteelblue;
+}
+
+#hypergraph tr.r1 {
+    border-bottom: 2px solid black;
+    font-weight: bold;
+}
+
+#hypergraph {
+    background-color: lightsteelblue;
+}
