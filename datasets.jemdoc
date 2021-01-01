@@ -24,7 +24,7 @@ Name | nodes | edges | Description | Topology | Avg. degree | Source ||
 [datasets/as-caida20071105.txt Caida] | | | Autonomous Systems | directed, edge profiles(customer, provider, peer, sibling) | | [http://snap.stanford.edu/data/as-Caida.html \[SNAP\]] [datasets/papers/powergrowth-kdd05.pdf \[paper\]] ||
 [http://snap.stanford.edu/data/bigdata/communities/com-lj.ungraph.txt.gz LiveJournal] | | | Online Blog | simple, ground-truth community | | [http://snap.stanford.edu/data/com-LiveJournal.html \[SNAP\]] [datasets/papers/ground-truth-comm.pdf \[paper\]] ||
 [http://snap.stanford.edu/data/soc-pokec-relationships.txt.gz Pokec] | | | Online Social | directed, node profiles(features) | | [http://snap.stanford.edu/data/soc-Pokec.html \[SNAP\]] [datasets/papers/soc-pokec.pdf \[paper\]] ||
-[http://snap.stanford.edu/data/bigdata/communities/com-youtube.ungraph.txt.gz YouTube] | | | Online Social | simple, ground-truth community | | [http://snap.stanford.edu/data/com-YouTube.html \[SNAP\]] [datasets/papers/ground-truth-comm.pdf \[paper\]]
+[http://snap.stanford.edu/data/bigdata/communities/com-youtube.ungraph.txt.gz YouTube] | | | Online Social | simple, ground-truth community | | [http://snap.stanford.edu/data/com-Youtube.html \[SNAP\]] [datasets/papers/ground-truth-comm.pdf \[paper\]]
 ~~~
 
 == Temporal Graphs
