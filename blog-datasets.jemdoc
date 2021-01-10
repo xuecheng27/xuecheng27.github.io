@@ -1,4 +1,4 @@
-# jemdoc: menu{menu}{datasets.html}, addcss{table}
+# jemdoc: menu{menu}{blog-datasets.html}, addcss{table}
 = Index of Graph Datasets
 
 - Format and graphIO: 
