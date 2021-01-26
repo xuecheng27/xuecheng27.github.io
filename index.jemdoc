@@ -1,4 +1,4 @@
-# jemdoc: menu{menu}{index.html}
+# jemdoc: menu{menu}{index.html}, showsource, analytics{UA-143343275-1}
 = Xuecheng Liu (刘学成)
 
 ~~~
@@ -13,9 +13,11 @@ I am particularly interested in matrix computation and analysis. \n
 E-mail: [liuxuecheng@sjtu.edu.cn]
 \n 
 Office: 1-441 SEIEE Building, 800 Dongchuan Road, Shanghai 200240, P. R. China \n 
-[CV/resume.pdf \[Resume\]] [CV/resume.pdf \[Google Scholar\]] \n 
+[CV/resume.pdf \[Resume\]] [https://twitter.com/XuechengLiu6 \[Twitter\]] \n 
 ~~~
 
-== News 
+== Selected Publications
 
-A new research paper: [papers/www21_graph_entropy.pdf Bridging the Gap between von Neumann Graph Entropy and Structural Information: Theory and Applications] \n 
+- [papers/www21_graph_entropy.pdf Bridging the Gap between von Neumann Graph Entropy and Structural Information: Theory and Applications] [https://github.com/xuecheng27/WWW21-Structural-Information \[Codes\]]\n 
+*Xuecheng Liu*, Luoyi Fu, and Xinbing Wang \n 
+accepted to /The Web Conference 2021/ \n 

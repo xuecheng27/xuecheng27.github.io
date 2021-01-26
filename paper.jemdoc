@@ -1,4 +1,4 @@
-# jemdoc: menu{menu}{paper.html}
+# jemdoc: menu{menu}{paper.html}, showsource, analytics{UA-143343275-1}
 = Papers 
 
 == 2021
@@ -12,7 +12,7 @@ accepted to /The Web Conference 2021/ \n
 accepted to /IEEE INFOCOM, 2021/ \n  
 
 == 2019
-- [papers/source_detection.pdf Poster: Information Source Detection with Limited Time Knowledge] [papers/poster_source-detection.pdf \[Poster\]] \n 
+- [https://dl.acm.org/doi/10.1145/3323679.3326626 Poster: Information Source Detection with Limited Time Knowledge] [papers/poster_source-detection.pdf \[Poster\]] \n 
 *Xuecheng Liu*, Luoyi Fu, Bo Jiang, Xiaojun Lin, and Xinbing Wang \n 
 accepted to /ACM MobiHoc, 2019/ \n 
 
@@ -20,6 +20,6 @@ accepted to /ACM MobiHoc, 2019/ \n
 *Xuecheng Liu*, Luoyi Fu, Bo Jiang, Xiaojun Lin, and Xinbing Wang \n 
 
 == 2018
-- [papers/wireless.pdf Multicast Scaling of Capacity and Energy Efficiency in Heterogeneous Wireless Sensor Networks] \n 
+- [https://dl.acm.org/doi/10.1145/3322497 Multicast Scaling of Capacity and Energy Efficiency in Heterogeneous Wireless Sensor Networks] \n 
 *Xuecheng Liu*, Luoyi Fu, Jiliang Wang, Xinbing Wang, and Guihai Chen \n 
 accepted to /ACM Transactions on Sensor Networks, 2019/ \n 
