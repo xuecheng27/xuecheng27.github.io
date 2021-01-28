@@ -1,7 +1,10 @@
 # jemdoc: menu{menu}{blog-datasets.html}, addcss{table}, showsource, analytics{UA-143343275-1}
 = Index of Graph Datasets
 
-- Format and graphIO: 
+- Data sources:
+-- [http://www.scidb.cn/en Science Data Bank (ScienceDB)]
+-- [http://snap.stanford.edu/data/index.html Stanford Large Network Dataset Collection (SNAP)]
+- Format: edgelist or .gml
 - Copyright: The network datasets listed in this page are free for scientific use to the best of my knowledge. If you make use of any of these data, please cite the original sources appropriately.
 
 == Static Graphs
@@ -25,7 +28,7 @@ Name | nodes | edges | Description | Topology | Avg. degree | Source ||
 [http://snap.stanford.edu/data/bigdata/communities/com-lj.ungraph.txt.gz LiveJournal] | | | Online Blog | simple, ground-truth community | | [http://snap.stanford.edu/data/com-LiveJournal.html \[SNAP\]] [datasets/papers/ground-truth-comm.pdf \[paper\]] ||
 [http://snap.stanford.edu/data/soc-pokec-relationships.txt.gz Pokec] | | | Online Social | directed, node profiles(features) | | [http://snap.stanford.edu/data/soc-Pokec.html \[SNAP\]] [datasets/papers/soc-pokec.pdf \[paper\]] ||
 [http://snap.stanford.edu/data/bigdata/communities/com-youtube.ungraph.txt.gz YouTube] | | | Online Social | simple, ground-truth community | | [http://snap.stanford.edu/data/com-Youtube.html \[SNAP\]] [datasets/papers/ground-truth-comm.pdf \[paper\]] ||
-name | | | Covert Social | security, efficiency | | \[paper\]
+[../datasets/lesmis.gml Les Miserables] | | | Co-appearance Network |  | | [http://www-personal.umich.edu/~mejn/netdata/ \[M. Newman\]] [https://www-cs-faculty.stanford.edu/~knuth/sgb.html \[book\]]
 ~~~
 
 == Temporal Graphs
